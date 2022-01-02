@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruvik Barvaliya
-- 👀 I’m interested in Backend Developing.
-- 🌱 I’m currently learning Javascript and NodeJS.
+- 👀 I’m interested in Backend Developing with Javascript and NodeJS.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Javascript and NodeJS Project.
 - 📫 How to reach me? => barvaliyadhruvik7@gmail.com
 
